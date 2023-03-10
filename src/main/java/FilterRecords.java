@@ -88,7 +88,7 @@ public class FilterRecords {
         return users;
     }
     /**
-     * Problem 3: Given the employee table, write a query in the problem2.sql file to retrieve all the records
+     * Problem 2: Given the employee table, write a query in the problem2.sql file to retrieve all the records
      * from the employee table that have a salary greater than $75000
      *
      *   employee table
